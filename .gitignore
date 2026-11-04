@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+claude-to-gpt Export*/
+*.zip
+manifest*.json
+.env
+.DS_Store
+Thumbs.db
